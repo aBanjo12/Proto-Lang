@@ -1,0 +1,9 @@
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/Experimental.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/Nightly.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/Continuous.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/proto-lang.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/PACKAGE.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lando/Documents/GitHub/Proto-Lang/build/CMakeFiles/ZERO_CHECK.dir
