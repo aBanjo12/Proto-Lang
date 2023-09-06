@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/proto-lang.dir/main.c.o" -o proto-lang 
