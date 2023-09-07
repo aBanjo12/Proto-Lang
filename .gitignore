@@ -1,1 +1,15 @@
 /build/
+/CMakeFiles/
+/Testing/
+Makefile
+cmake_install.cmake
+CMakeCashe.txt
+CMakeLists.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+Makefile
+proto-lang
+CMakeFiles/proto-lang.dir/main.c.o
+CMakeFiles/proto-lang.dir/main.c.o.d
